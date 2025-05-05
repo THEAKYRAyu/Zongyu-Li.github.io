@@ -1,0 +1,6 @@
+title: Zongyuu-Li
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+markdown: kramdown
